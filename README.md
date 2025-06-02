@@ -3,7 +3,7 @@
 👩🏼‍💻 Fullstack Developer</br>
 🎨 Web and UI/UX Designer</br> 
 💸 Working as a freelancer</br> 
-🔮 Non stop learning AI and make videos on [Instagram]{https://www.instagram.com/lina.0xdev?igsh=eHpxbXN3cXE1NnVx}
+🔮 Non stop learning AI and make videos on [Instagram](https://www.instagram.com/lina.0xdev?igsh=eHpxbXN3cXE1NnVx)
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/lina.0xDev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lina.0xDev@proton.me) 
 
